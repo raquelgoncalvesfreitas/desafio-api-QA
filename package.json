@@ -1,0 +1,19 @@
+{
+  "name": "desafio-api-qa",
+  "version": "1.0.0",
+  "description": "Desafio técnico de automação de API utilizando Cypress e Serverest.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Raquel Goncalves de Freitas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

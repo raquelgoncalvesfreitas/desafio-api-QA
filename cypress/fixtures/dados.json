@@ -1,0 +1,20 @@
+{
+  "usuario": {
+    "nome": "QA Teste",
+    "senha": "123456"
+  },
+
+  "admin": {
+    "nome": "Admin QA",
+    "senha": "123456"
+  },
+
+  "produto": {
+    "descricaoPadrao": "Produto Teste QA"
+  },
+
+  "carrinho": {
+    "idProdutoValido": "BeeJh5lz3k6kSIzA"
+  }
+}
+
