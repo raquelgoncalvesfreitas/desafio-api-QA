@@ -28,19 +28,33 @@ Avaliar a capacidade de:
 # 📁 Estrutura do Projeto
 
 desafio-api-QA/
+
 ├── cypress/
+
 │ ├── e2e/
+
 │ │ ├── login_api.cy.js
+
 │ │ ├── usuarios_api.cy.js
+
 │ │ ├── produtos_api.cy.js
+
 │ │ ├── carrinhos_api.cy.js
+
 │ ├── fixtures/
+
 │ │ └── dados.json
+
 │ ├── support/
+
 │ │ ├── commands.js
+
 │ │ └── e2e.js
+
 ├── cypress.config.js
+
 ├── package.json
+
 └── README.md
 
 # 📦 Instalação do projeto
